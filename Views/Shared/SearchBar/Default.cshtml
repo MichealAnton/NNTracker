@@ -1,0 +1,18 @@
+﻿@using NNTracker.Views.Shared.SearchBar
+@model Spager
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<div class=" col-4 p-0 justify-content-end ">
+    <form asp-controller="@Model.Controller" asp-action="@Model.Action">
+        <span class=" btn-group " >
+            <input class="form-control" type="text" value="@Model.searchText" name="searchText" placeholder="Search key" />
+            <input class="p-1 ml-2 btn btn-sm btn-info" type="submit" value="Search" />
+
+        </span>
+    </form>
+</div>
+
+
+
