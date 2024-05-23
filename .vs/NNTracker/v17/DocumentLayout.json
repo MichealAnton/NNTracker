@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{714D6200-A3AE-41A9-B7D6-83A8B1F03726}|NNTracker.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FCI\\MVC\\NNTracker\\Migrations\\20240523112154_ll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240523112154_ll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{714D6200-A3AE-41A9-B7D6-83A8B1F03726}|NNTracker.csproj|d:\\fci\\mvc\\nntracker\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{714D6200-A3AE-41A9-B7D6-83A8B1F03726}|NNTracker.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -92,6 +88,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{714D6200-A3AE-41A9-B7D6-83A8B1F03726}|NNTracker.csproj|d:\\fci\\mvc\\nntracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{714D6200-A3AE-41A9-B7D6-83A8B1F03726}|NNTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714D6200-A3AE-41A9-B7D6-83A8B1F03726}|NNTracker.csproj|d:\\fci\\mvc\\nntracker\\migrations\\20240523112154_ll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714D6200-A3AE-41A9-B7D6-83A8B1F03726}|NNTracker.csproj|solutionrelative:migrations\\20240523112154_ll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -109,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 22,
               "Title": "20240523112154_ll.cs",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Migrations\\20240523112154_ll.cs",
               "RelativeDocumentMoniker": "Migrations\\20240523112154_ll.cs",
@@ -117,22 +117,20 @@
               "RelativeToolTip": "Migrations\\20240523112154_ll.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T11:21:54.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T11:21:54.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "dbo.Transactions [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/MICH/nnn/True/SqlTable/dbo.Transactions.sql",
               "ToolTip": "dbo.Transactions [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-23T11:17:47.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T11:17:47.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
@@ -144,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "site.css",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -156,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Views\\Transactions\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Transactions\\Index.cshtml",
@@ -164,8 +162,7 @@
               "RelativeToolTip": "Views\\Transactions\\Index.cshtml",
               "ViewState": "AQIAAD8AAAAAAAAAAAAIwE8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T14:23:25.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T14:23:25.506Z"
             },
             {
               "$type": "Document",
@@ -177,8 +174,7 @@
               "RelativeToolTip": "Models\\Transaction.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAqwA8AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:22:54.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:22:54.443Z"
             },
             {
               "$type": "Document",
@@ -195,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -203,12 +199,11 @@
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAxwBsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:22:24.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:22:24.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Account.cs",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Models\\Account.cs",
               "RelativeDocumentMoniker": "Models\\Account.cs",
@@ -216,12 +211,11 @@
               "RelativeToolTip": "Models\\Account.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAD4vwsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:22:39.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:22:39.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
@@ -229,12 +223,11 @@
               "RelativeToolTip": "Controllers\\CategoryController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:55:01.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:55:01.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
@@ -242,12 +235,11 @@
               "RelativeToolTip": "Views\\Category\\Index.cshtml",
               "ViewState": "AQIAAE0AAAAAAAAAAAAAAFwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T12:56:23.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:56:23.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Views\\Accounts\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Accounts\\Index.cshtml",
@@ -255,12 +247,11 @@
               "RelativeToolTip": "Views\\Accounts\\Index.cshtml",
               "ViewState": "AQIAAC8AAAAAAAAAAAAAAEMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T10:44:06.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T10:44:06.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AccountsController.cs",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Controllers\\AccountsController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
@@ -268,12 +259,11 @@
               "RelativeToolTip": "Controllers\\AccountsController.cs",
               "ViewState": "AQIAAJgAAAAAAAAAAAAAwCAAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:57:24.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:57:24.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Edit.cshtml",
@@ -281,12 +271,11 @@
               "RelativeToolTip": "Views\\Category\\Edit.cshtml",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAADsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T12:56:17.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T12:56:17.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Spager.cs",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Views\\Shared\\SearchBar\\Spager.cs",
               "RelativeDocumentMoniker": "Views\\Shared\\SearchBar\\Spager.cs",
@@ -294,12 +283,11 @@
               "RelativeToolTip": "Views\\Shared\\SearchBar\\Spager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T14:49:24.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T14:49:24.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "SearchBarView.cs",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Views\\Shared\\SearchBar\\SearchBarView.cs",
               "RelativeDocumentMoniker": "Views\\Shared\\SearchBar\\SearchBarView.cs",
@@ -307,12 +295,11 @@
               "RelativeToolTip": "Views\\Shared\\SearchBar\\SearchBarView.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T14:46:36.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T14:46:36.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Delete.cshtml",
@@ -324,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Views\\Category\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Details.cshtml",
@@ -336,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "20240522125301_add.cs",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Migrations\\20240522125301_add.cs",
               "RelativeDocumentMoniker": "Migrations\\20240522125301_add.cs",
@@ -348,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -360,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -372,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -384,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "ApplicationDBcontext.cs",
               "DocumentMoniker": "D:\\FCI\\MVC\\NNTracker\\Data\\ApplicationDBcontext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDBcontext.cs",

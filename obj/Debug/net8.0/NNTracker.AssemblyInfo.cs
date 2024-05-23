@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NNTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34558b8760fcda1f105339561c5d996b378f7100")]
 [assembly: System.Reflection.AssemblyProductAttribute("NNTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NNTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
